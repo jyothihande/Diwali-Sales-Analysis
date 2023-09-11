@@ -1,1 +1,1 @@
-# Diwali-Sales-Analysis Folder has Diwali Sale Analysis using Exploratory Data Analysis with graphical representation. Analyze Diwali sales data to improve customer experience and sales.
+# Exploratory Data Analysis Folder has Diwali Sale Analysis and Zomato food order sale using Exploratory Data Analysis with graphical representation. Analyze sales data to improve customer experience and sales.
